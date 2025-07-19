@@ -1,0 +1,9 @@
+# iMirror Ultra IntelliJ Plugin Flow
+
+1. **Startup**: Plugin loads, registers actions, tool windows, and live templates.
+2. **User Action**: User triggers an AI-powered action (e.g., code suggestion, refactor).
+3. **iCore/Agent**: The action invokes iCore, which consults iData and AI models for optimal output.
+4. **iPerfection Loop**: The plugin monitors user feedback and usage, refining its suggestions and behavior.
+5. **Visualization**: iGe (graphics engine) displays real-time insights in a futuristic tool window.
+6. **Self-Evolution**: Agents analyze usage patterns, update models, and propose plugin improvements.
+7. **Seamless Utility**: All features are accessible contextually, with minimal friction and maximal intelligence.
